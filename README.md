@@ -1,5 +1,5 @@
 # VBA-challenge
-Repo for VBA Challenge.
+The Repo for Robert James, the VBA Challenge.
 
 # Description
 This Repo holds the files for the Stock Analysis VBA challenge.
